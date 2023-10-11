@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Makani
 - 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning at Shandong Jiaotong University doing CS
+- 🌱 I graduated from Shandong Jiaotong University with honors, Bachelor of Engineering Computer Science
 - 💞️ I’m looking to collaborate on any python related projects
 - 📫 How to reach me makanimatti@gmail.com
 
